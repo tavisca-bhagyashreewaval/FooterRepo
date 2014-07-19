@@ -1,0 +1,122 @@
+﻿body {
+}
+
+.panel-footer {
+    border-bottom-left-radius: 0px;
+    border-bottom-right-radius: 0px;
+    border-top: none;
+    padding: 0px 0px;
+}
+/*.container1 {
+    position:relative;
+    z-index:-2;
+    padding-top:1%;
+    padding-bottom:1%;
+    border-top-left-radius:10px;
+    border-top-right-radius:10px; 
+    background-color:black;
+    color:white;
+    width:70%;
+}*/
+/*.container2 {
+    /*background-color:lightblue;*/
+/*padding-top:-1%;
+}*/
+.ul-without-bullet {
+    list-style-type: none;
+    color: white;
+    padding: 0px;
+    margin: 0px,0px,0px,0px;
+}
+
+.contact-info {
+    width: 95%;
+    margin-top: 3%;
+    color: gray;
+}
+
+.link-color {
+    color: white;
+}
+
+.footer-img {
+    /*background: url(../Images/fb.PNG) no-repeat 6px center;*/
+    width: 100px;
+    height: 100px;
+    display: block;
+}
+
+.font-color1 {
+    color: white;
+}
+
+.signup {
+    background: no-repeat scroll 0,0,#2E2E2E;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    box-shadow: 0,3px,3px,#222222;
+    /*margin-bottom:-85%;*/
+    padding: 1%;
+    position: absolute;
+    z-index: 0;
+    margin-top: -40px;
+    /*margin-left:16%;*/
+    /*height:8%;*/
+}
+
+.footerbg {
+    background: no-repeat scroll 0,0,#4A3118;
+    /*margin-top:18px;*/
+    /*padding:46px 10px;*/
+    padding: 46px 0;
+    /*margin-top:2%;*/
+}
+/*@media screen and (min-width: 970px) , screen and (max-width: 1170px) {
+    .margin1 {
+        margin-left: 4%;
+    }
+}*/
+/*@media screen and (min-width: 240px) , screen and (max-width: 480px) {
+    .margin1 {
+        margin-left: 2%;
+    }
+}*/
+
+@media (min-width: 240px) and (max-width:480px) {
+    .margin1 {
+        margin-left: 0%;
+        /*font-size:8px;*/
+    }
+}
+@media (min-width: 480px) and (max-width:768px) {
+    .margin1 {
+        margin-left: 4%;
+        /*font-size:8px;*/
+    }
+}
+@media (min-width: 768px) {
+    .margin1 {
+        margin-left: 2%;
+        margin-right:2%;
+        /*font-size:8px;*/
+    }
+}
+@media (min-width: 1024px){
+    .margin1 {
+        margin-left: 3%;
+        margin-right: 3%;
+        /*font-size:8px;*/
+    }
+    
+}
+.size-img {
+   margin-top:1%;
+    width:8%;
+    margin-left:2%;
+}
+.size-img1 {
+   margin-top:1%;
+    width:11%;
+    margin-left:2%;
+    
+}
